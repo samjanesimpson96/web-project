@@ -4,7 +4,7 @@ ul.nav li{
 }
 
 a {
-color: white;
+color: red;
 }
 
 .color-info {
