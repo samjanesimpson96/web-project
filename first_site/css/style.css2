@@ -1,0 +1,13 @@
+ul.nav li{
+    color: white;
+    background-color: red;
+}
+
+a {
+color: white;
+}
+
+.color-info {
+background-color: #6495ED;
+border: 3px solid #000;
+}
